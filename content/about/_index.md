@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: '2021-01-01T09:19'
-heading: 'Marketing made  '
+heading: 'Marketing made that gets you paid. '
 description: >-
   We are specialized in developing forward-thinking brand identities, websites,
   illustration and animation for all types of customers. And we do this by
