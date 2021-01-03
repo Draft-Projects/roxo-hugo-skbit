@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: '2018-01-12T01:19'
+date: '2018-01-12T01:20'
 heading: WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
 description: >-
   We are specialized in developing forward-thinking brand identities, websites,
