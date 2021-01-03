@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: '2021-01-01T09:19'
-heading: ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
+heading: . AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
 description: >-
   We are specialized in developing forward-thinking brand identities, websites,
   illustration and animation for all types of customers. And we do this by
